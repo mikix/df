@@ -6,3 +6,5 @@ This is unofficial snap packaging, which redistributes the original binaries wit
 
 Upstream: http://www.bay12games.com/dwarves/
 
+This packaging is no longer maintained.
+See https://github.com/ultraviolet-1986/df for an updated version.
